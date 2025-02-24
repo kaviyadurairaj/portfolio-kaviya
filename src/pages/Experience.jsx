@@ -9,7 +9,7 @@ const Experience = () => {
         <li><strong>Trios Technologies (June 2024 – July 2024)</strong>
           <ul>
             <li>Researched emerging web technologies.</li>
-            <li>Designed a responsive landing page using HTML, CSS, and JavaScript.</li>
+            <li>Designed a responsive landing page using HTML, CSS, and JavaScript.</li><br/>
           </ul>
         </li>
         <li><strong>Codsoft (Feb 2023 – Mar 2023)</strong>
